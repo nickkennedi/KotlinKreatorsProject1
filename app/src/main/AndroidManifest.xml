@@ -16,7 +16,7 @@
           android:name=".View.CardInfoActivity"
           android:exported="false" />
         <activity
-          android:name=".View.Homescreen_Activity"
+          android:name=".View.HomeActivity"
           android:exported="false" />
         <activity
           android:name=".View.SplashScreenActivity"

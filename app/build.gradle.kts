@@ -49,4 +49,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    
+    // Circular ProgressBar
+    implementation("com.mikhaellopez:circularprogressbar:3.1.0")
+    implementation("com.github.Dimezis:BlurView:version-2.0.3")
+    
 }
