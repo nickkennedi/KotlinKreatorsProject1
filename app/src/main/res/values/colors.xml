@@ -2,5 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="azulbackground">#121433</color>
+    <color name="blue_background">#121433</color>
+    <color name="blue_card">#23265A</color>
+    <color name="blue_categories">#2567F9</color>
+    <color name="purple_categories">#8F3CFF</color>
+    <color name="pink_categories">#FF3C82</color>
+    <color name="yellow_categories">#FFB017</color>
+    <color name="gray_text">#B2B2B2</color>
 </resources>

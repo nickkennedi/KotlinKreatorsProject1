@@ -1,3 +1,5 @@
 <resources>
 	<string name="app_name">KotlinKreatorsProject</string>
+	<string name="Title_cardInfo_txt">Card Information</string>
+	<string name="Descricao_btn_CardInfo">botao branco para voltar a tela de inicio</string>
 </resources>
